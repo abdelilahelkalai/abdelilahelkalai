@@ -6,22 +6,32 @@
 ⚡ Fokus auf skalierbare, performante & barrierefreie Webanwendungen  
 📍 Frankfurt am Main, Deutschland  
 
-</div>
-  
 ---
 
-## 🚀 Über mich
+## 🚀 About Me
 
-Ich bin ein Frontend Developer mit Schwerpunkt auf modernen JavaScript-Technologien.  
-Meine Leidenschaft liegt in sauberer Architektur, Performance-Optimierung und einer exzellenten User Experience.
+Frontend Developer mit Fokus auf moderne JavaScript-Technologien, saubere Architektur und Performance.
 
-Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komponentenarchitekturen aufgebaut und Performance messbar verbessert.
+Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility und Performance-Optimierung.
+
+</div>
+
+---
+
+## 🧠 Current Focus
+
+- ⚡ React Performance Optimization  
+- 🏗 Scalable Frontend Architecture  
+- ♿ Accessibility (WCAG)  
+- 🚀 Core Web Vitals & UX improvements  
+- 🧩 Reusable Design Systems  
 
 ---
 
 ## 🛠 Tech Stack
+
 <div align="center">
-  
+
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,40 +46,33 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
-### 🧰 Tools & Workflow
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI-CD-0A0A0A?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
 
 </div>
 
-### 🎯 Fokus
-⚡ Performance Optimization  
-♿ Accessibility (WCAG)  
-🏗 Scalable Frontend Architecture  
-🧩 Reusable Component Systems  
-
 ---
 
-## 📌 Projekte
+## 🎯 Projects
 
-🔹 **SimplifyTube AI**  
-🤖 KI-basierte Video-Zusammenfassungen (<10 Sekunden)  
-• 500+ API Requests verarbeitet  
-• Firebase Authentication integriert  
+<p align="center">
 
-🔹 **Taskify**  
-📋 Drag & Drop Task Manager  
-• State Management  
-• Intuitive UX/UI  
+<a href="https://github.com/abdelilahelkalai/SimplifyTube-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=SimplifyTube-AI&theme=tokyonight" />
+</a>
 
-🔹 **Leads Tracker (Chrome Extension)**  
-🧲 Lead Management Tool  
-• LocalStorage Integration  
-• Echtzeit UI Updates  
+<a href="https://github.com/abdelilahelkalai/Taskify">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=Taskify&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/abdelilahelkalai/leads-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=leads-tracker&theme=tokyonight" />
+</a>
+
+</p>
 
 ---
 
@@ -81,7 +84,15 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 
 ---
 
-## 📫 Kontakt
+## 📈 Activity Overview
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelilahelkalai&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Contact
 
 <p align="center">
 
@@ -101,9 +112,6 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 
 ---
 
-## 🤝 Let’s connect!
+## 🤝 Let’s Connect
 
-💬 Ich bin offen für neue Projekte, Kooperationen und spannende Frontend-Rollen.
-
----
-
+💬 Open for frontend roles, freelance projects & collaborations.
