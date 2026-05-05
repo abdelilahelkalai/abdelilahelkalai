@@ -20,11 +20,19 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ## 🧠 Aktueller Fokus
 
-- ⚡ React Performance Optimierung  
-- 🏗 Skalierbare Frontend-Architektur  
-- ♿ Barrierefreiheit (WCAG)  
-- 🚀 Core Web Vitals  
-- 🧩 Wiederverwendbare UI Systeme  
+### 🎨 Frontend
+⚡ React Performance Optimierung  
+🏗 Skalierbare Frontend-Architektur  
+♿ Barrierefreiheit (WCAG)  
+🚀 Core Web Vitals  
+🧩 Wiederverwendbare UI Systeme  
+
+### ⚙️ Backend
+🔧 REST API Design & Integration  
+🧠 Node.js & Express Entwicklung  
+🗄 MongoDB Datenmodellierung  
+🔐 Auth (JWT / Sessions)  
+🌐 GraphQL APIs  
 
 ---
 
