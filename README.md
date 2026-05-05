@@ -83,7 +83,7 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ## 🔹 Leads Tracker
 🧲 Chrome Extension  
-👉 https://github.com/abdelilahelkalai/leads_tracker  
+👉 [https://github.com/abdelilahelkalai/leads_tracker ](https://github.com/abdelilahelkalai/lead_tracker) 
 
 ---
 
