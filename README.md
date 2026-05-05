@@ -95,3 +95,5 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 
 💬 Ich bin offen für neue Projekte, Kooperationen und spannende Frontend-Rollen.
 
+---
+
