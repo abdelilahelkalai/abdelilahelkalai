@@ -21,9 +21,9 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 ## 🧠 Aktueller Fokus
 
 - ⚡ React Performance Optimierung  
-- 🏗 Skalierbare Frontend-Architekturen  
+- 🏗 Skalierbare Frontend-Architektur  
 - ♿ Barrierefreiheit (WCAG)  
-- 🚀 Core Web Vitals & UX Optimierung  
+- 🚀 Core Web Vitals  
 - 🧩 Wiederverwendbare UI Systeme  
 
 ---
@@ -46,7 +46,7 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
-### 🧰 Tools & Workflow
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI-CD-0A0A0A?style=for-the-badge)
@@ -58,23 +58,27 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ---
 
-## 🎯 Projekte
+# 🎯 Projekte (100% STABIL VERSION)
 
-<p align="center">
+👉 Statt fragile Cards → sichere Links + optional Cards
 
-<a href="https://github.com/abdelilahelkalai/SimplifyTube-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=SimplifyTube-AI&theme=tokyonight" />
-</a>
+---
 
-<a href="https://github.com/abdelilahelkalai/Taskify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=Taskify&theme=tokyonight" />
-</a>
+## 🔹 SimplifyTube AI
+🤖 KI Video Summary Tool  
+👉 https://github.com/abdelilahelkalai/SimplifyTube-AI  
 
-<a href="https://github.com/abdelilahelkalai/DEIN-LEADS-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=lead_tracker&theme=tokyonight" />
-</a>
+---
 
-</p>
+## 🔹 Taskify
+📋 Task Management App  
+👉 https://github.com/abdelilahelkalai/Taskify  
+
+---
+
+## 🔹 Leads Tracker
+🧲 Chrome Extension  
+👉 https://github.com/abdelilahelkalai/leads-tracker  
 
 ---
 
