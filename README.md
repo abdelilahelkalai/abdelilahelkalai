@@ -6,6 +6,8 @@
 ⚡ Fokus auf skalierbare, performante & barrierefreie Webanwendungen  
 📍 Frankfurt am Main, Deutschland  
 
+<div align="center">
+  
 ---
 
 ## 🚀 Über mich
