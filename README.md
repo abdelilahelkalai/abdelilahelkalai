@@ -21,6 +21,7 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 
 ## 🛠 Tech Stack
 <div align="center">
+  
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -73,6 +74,7 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdelilahelkalai&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahelkalai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
@@ -80,6 +82,7 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 ---
 
 ## 📫 Kontakt
+
 <div align="center">
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelilah.uas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelilah07)
