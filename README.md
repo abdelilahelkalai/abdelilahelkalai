@@ -58,11 +58,8 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ---
 
-# 🎯 Projekte (100% STABIL VERSION)
+# 🎯 Projekte
 
-👉 Statt fragile Cards → sichere Links + optional Cards
-
----
 
 ## 🔹 SimplifyTube AI
 🤖 KI Video Summary Tool  
