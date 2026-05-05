@@ -46,11 +46,13 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
-### 🧰 Tools
+### 🧰 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI-CD-0A0A0A?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
 
 </div>
 
@@ -68,13 +70,11 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=Taskify&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/abdelilahelkalai/DEIN-LEADS-REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=DEIN-LEADS-REPO-NAME&theme=tokyonight" />
+<a href="https://github.com/abdelilahelkalai/DEIN-LEADS-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=lead_tracker&theme=tokyonight" />
 </a>
 
 </p>
-
-> ⚠️ Hinweis: Ersetze `DEIN-LEADS-REPO-NAME` exakt mit deinem echten GitHub Repository Namen.
 
 ---
 
