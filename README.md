@@ -68,9 +68,9 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 
 ## 📫 Kontakt
 
-📧 Email: **abdelilah.uas@gmail.com**  
-🔗 LinkedIn: [abdelilah07](https://linkedin.com/in/abdelilah07)  
-🌐 Portfolio: [abdelilah07.netlify.app](https://abdelilah07.netlify.app)
+[![Email](https://img.shields.io/badge/Email-abdelilah.uas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelilah.uas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelilah%20El%20Kalai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelilah07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelilah07.netlify.app)
 
 ---
 
