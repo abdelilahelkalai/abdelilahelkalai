@@ -1,50 +1,79 @@
 # 👋 Hi, ich bin Abdelilah El Kalai
 
-💻 Frontend Developer (React.js) mit Fokus auf skalierbare, performante und barrierefreie Webanwendungen
-📍 Frankfurt am Main, Deutschland
+💻 Frontend Developer (React.js)  
+⚡ Fokus auf skalierbare, performante & barrierefreie Webanwendungen  
+📍 Frankfurt am Main, Deutschland  
 
 ---
 
 ## 🚀 Über mich
 
-Ich bin ein Frontend Developer mit Schwerpunkt auf modernen JavaScript-Technologien und einer Leidenschaft für saubere Architektur, Performance und User Experience.
+Ich bin ein Frontend Developer mit Schwerpunkt auf modernen JavaScript-Technologien.  
+Meine Leidenschaft liegt in sauberer Architektur, Performance-Optimierung und einer exzellenten User Experience.
 
-In meiner bisherigen Erfahrung habe ich an produktiven Anwendungen gearbeitet, Performance messbar verbessert und robuste, wiederverwendbare Komponenten entwickelt.
+Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komponentenarchitekturen aufgebaut und Performance messbar verbessert.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:**
-React.js, TypeScript, JavaScript (ES6+), HTML, CSS
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & APIs:**
-Node.js, Express, MongoDB, REST APIs, GraphQL
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
-**Tools & Methoden:**
-Git, GitHub, CI/CD, Jira, npm, Agile / Scrum
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
 
-**Weitere Schwerpunkte:**
-Frontend Architektur, Performance Optimierung, Barrierefreiheit (WCAG)
+### 🎯 Fokus
+⚡ Performance Optimization  
+♿ Accessibility (WCAG)  
+🏗 Scalable Frontend Architecture  
+🧩 Reusable Component Systems  
 
 ---
 
 ## 📌 Projekte
 
-🔹 **SimplifyTube AI**
-KI-basierte Video-Zusammenfassungen (<10 Sekunden)
-→ 500+ API-Anfragen, Firebase Authentication
+🔹 **SimplifyTube AI**  
+🤖 KI-basierte Video-Zusammenfassungen (<10 Sekunden)  
+• 500+ API Requests verarbeitet  
+• Firebase Authentication integriert  
 
-🔹 **Taskify**
-Drag-and-Drop Task Manager mit State Management
+🔹 **Taskify**  
+📋 Drag & Drop Task Manager  
+• State Management  
+• Intuitive UX/UI  
 
-🔹 **Leads Tracker**
-Chrome Extension mit localStorage und Echtzeit-UI
+🔹 **Leads Tracker (Chrome Extension)**  
+🧲 Lead Management Tool  
+• LocalStorage Integration  
+• Echtzeit UI Updates  
 
 ---
 
 ## 📫 Kontakt
 
-📧 [abdelilah.uas@gmail.com](mailto:abdelilah.uas@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/abdelilah07
-🌐 Portfolio: https://abdelilah07.netlify.app
+📧 Email: **abdelilah.uas@gmail.com**  
+🔗 LinkedIn: [abdelilah07](https://linkedin.com/in/abdelilah07)  
+🌐 Portfolio: [abdelilah07.netlify.app](https://abdelilah07.netlify.app)
+
+---
+
+## 🤝 Let’s connect!
+
+💬 Ich bin offen für neue Projekte, Kooperationen und spannende Frontend-Rollen.
