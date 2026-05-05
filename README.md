@@ -76,8 +76,7 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelilahelkalai&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahelkalai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelilahelkalai&theme=tokyonight" />
 </div>
 
 ---
