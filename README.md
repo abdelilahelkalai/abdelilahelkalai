@@ -71,7 +71,7 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ## 🔹 SimplifyTube AI
 🤖 KI Video Summary Tool  
-👉 https://github.com/abdelilahelkalai/SimplifyTube-AI  
+👉 https://github.com/abdelilahelkalai/simplify-tube-ai 
 
 ---
 
@@ -83,7 +83,7 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ## 🔹 Leads Tracker
 🧲 Chrome Extension  
-👉 https://github.com/abdelilahelkalai/leads-tracker  
+👉 https://github.com/abdelilahelkalai/leads_tracker  
 
 ---
 
