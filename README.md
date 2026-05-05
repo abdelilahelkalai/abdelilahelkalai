@@ -20,7 +20,7 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 ---
 
 ## 🛠 Tech Stack
-
+<div align="center">
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,6 +42,8 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
+
+</div>
 
 ### 🎯 Fokus
 ⚡ Performance Optimization  
@@ -71,18 +73,18 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 ---
 
 ## 📊 GitHub Stats
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdelilahelkalai&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahelkalai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+</div>
 ---
 
 ## 📫 Kontakt
-
+<div align="center">
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelilah.uas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelilah07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelilah07.netlify.app)
-
+</div>
 ---
 
 ## 🤝 Let’s connect!
