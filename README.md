@@ -66,6 +66,13 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelilahelkalai&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahelkalai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
 ## 📫 Kontakt
 
 [![Email](https://img.shields.io/badge/Email-abdelilah.uas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelilah.uas@gmail.com)
