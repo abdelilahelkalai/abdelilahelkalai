@@ -6,7 +6,7 @@
 ⚡ Fokus auf skalierbare, performante & barrierefreie Webanwendungen  
 📍 Frankfurt am Main, Deutschland  
 
-<div align="center">
+<7div>
   
 ---
 
@@ -89,4 +89,3 @@ Ich habe bereits an produktiven Webanwendungen gearbeitet, APIs integriert, Komp
 
 💬 Ich bin offen für neue Projekte, Kooperationen und spannende Frontend-Rollen.
 
-</div>
