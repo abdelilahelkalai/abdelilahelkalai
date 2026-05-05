@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Über mich
 
 Frontend Developer mit Fokus auf moderne JavaScript-Technologien, saubere Architektur und Performance.
 
@@ -18,13 +18,13 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ---
 
-## 🧠 Current Focus
+## 🧠 Aktueller Fokus
 
-- ⚡ React Performance Optimization  
-- 🏗 Scalable Frontend Architecture  
-- ♿ Accessibility (WCAG)  
-- 🚀 Core Web Vitals & UX improvements  
-- 🧩 Reusable Design Systems  
+- ⚡ React Performance Optimierung  
+- 🏗 Skalierbare Frontend-Architekturen  
+- ♿ Barrierefreiheit (WCAG)  
+- 🚀 Core Web Vitals & UX Optimierung  
+- 🧩 Wiederverwendbare UI Systeme  
 
 ---
 
@@ -56,7 +56,7 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ---
 
-## 🎯 Projects
+## 🎯 Projekte
 
 <p align="center">
 
@@ -68,11 +68,13 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=Taskify&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/abdelilahelkalai/leads-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=leads-tracker&theme=tokyonight" />
+<a href="https://github.com/abdelilahelkalai/DEIN-LEADS-REPO-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelilahelkalai&repo=DEIN-LEADS-REPO-NAME&theme=tokyonight" />
 </a>
 
 </p>
+
+> ⚠️ Hinweis: Ersetze `DEIN-LEADS-REPO-NAME` exakt mit deinem echten GitHub Repository Namen.
 
 ---
 
@@ -92,7 +94,7 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ---
 
-## 📫 Contact
+## 📫 Kontakt
 
 <p align="center">
 
@@ -114,4 +116,4 @@ Ich entwickle skalierbare Webanwendungen mit starkem Fokus auf UX, Accessibility
 
 ## 🤝 Let’s Connect
 
-💬 Open for frontend roles, freelance projects & collaborations.
+💬 Offen für Frontend-Rollen, Freelance-Projekte und spannende Kooperationen.
